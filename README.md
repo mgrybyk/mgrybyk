@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there! 👋 I'm Mykola
 
-<!--
-**mgrybyk/mgrybyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend/Fullstack Engineer** who loves event-driven everything - from DOM clicks to microservices 🎯
 
-Here are some ideas to get you started:
+🔧 Building modern React apps & contributing to open source  
+🎯 Technical Committee member at [WebdriverIO](https://webdriver.io)  
+⚡ Async/await enthusiast (callbacks are so 2015)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const myPassion = async () => {
+  return await buildCoolStuff() && contributeToOpenSource();
+}
+```
+
+## Let's connect!
+🔗 [LinkedIn](https://linkedin.com/in/mykola-grybyk) • 📧 [mgrybyk@pm.me](mailto:mgrybyk@pm.me) • 📄 [CV](https://cv.mgrybyk.icu)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgrybyk&show_icons=true&theme=radical)
+
+---
+*Building scalable apps with the power of Node.js and worker threads* ⚡
