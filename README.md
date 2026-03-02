@@ -19,3 +19,8 @@ const myPassion = async () => {
 
 ---
 *Building scalable apps with the power of Node.js and worker threads* ⚡
+
+---
+⚠️ **[Keep Android Open](https://keepandroidopen.org)** — Google is planning to block sideloading on Android from September 2026. [Sign the petition](https://c.org/d8Y5rw6RYb) and help push back.
+
+---
