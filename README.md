@@ -1,26 +1,15 @@
-# Hey there! 👋 I'm Mykola
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Mykola Grybyk — engineering · care · curiosity" />
+</p>
 
-**Frontend/Fullstack Engineer** who loves event-driven everything - from DOM clicks to microservices 🎯
+I build software mostly with **TypeScript, React and Node.js** — with a testing instinct that never really left.
 
-🔧 Building modern React apps & contributing to open source  
-🎯 Technical Committee member at [WebdriverIO](https://webdriver.io)  
-⚡ Async/await enthusiast (callbacks are so 2015)
+Right now I'm working on [**LeapSpace at Elsevier**](https://www.sciencedirect.com/leapspace) — a research-grade AI workspace. Most of my work is frontend and Node.js middleware, but I also work across Java/Spring Boot services, CI/CD, architecture, our design system, and whatever else needs attention.
 
-```javascript
-const myPassion = async () => {
-  return await buildCoolStuff() && contributeToOpenSource();
-}
-```
+[![WebdriverIO TSC member](https://img.shields.io/badge/WebdriverIO-TSC-EA5906?logo=webdriverio&logoColor=white)](https://webdriver.io/community/team/)
 
-## Let's connect!
-🔗 [LinkedIn](https://linkedin.com/in/mykola-grybyk) • 📧 [mgrybyk@pm.me](mailto:mgrybyk@pm.me) • 📄 [CV](https://cv.mgrybyk.icu)
+### Beyond software
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgrybyk&show_icons=true&theme=radical)
+I travel, stay active, and spend a lot of time exploring psychology, philosophy, and consciousness. Lately I've also been experimenting with whether some of those questions can be turned into software.
 
----
-*Building scalable apps with the power of Node.js and worker threads* ⚡
-
----
-⚠️ **[Keep Android Open](https://keepandroidopen.org)** — Google is planning to block sideloading on Android from September 2026. [Sign the petition](https://c.org/d8Y5rw6RYb) and help push back.
-
----
+[LinkedIn](https://www.linkedin.com/in/mykola-grybyk/) · [CV](https://cv.mgrybyk.icu/) · [Email](mailto:mgrybyk@pm.me)

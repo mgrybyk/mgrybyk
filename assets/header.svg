@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Mykola Grybyk</title>
+  <desc id="desc">Engineering, care, curiosity</desc>
+
+  <style>
+    .fg { fill: #1f2328; }
+    .muted { fill: #59636e; }
+    .line { stroke: #d0d7de; }
+    .accent { stroke: #59636e; }
+    .node { fill: #ffffff; stroke: #59636e; }
+
+    @media (prefers-color-scheme: dark) {
+      .fg { fill: #f0f6fc; }
+      .muted { fill: #9198a1; }
+      .line { stroke: #3d444d; }
+      .accent { stroke: #9198a1; }
+      .node { fill: #0d1117; stroke: #9198a1; }
+    }
+  </style>
+
+  <!-- quiet technical frame -->
+  <line class="line" x1="36" y1="36" x2="1164" y2="36" stroke-width="1"/>
+  <line class="line" x1="36" y1="244" x2="1164" y2="244" stroke-width="1"/>
+
+  <!-- name -->
+  <text class="fg"
+        x="66" y="132"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="62"
+        font-weight="650"
+        letter-spacing="-1.5">MYKOLA GRYBYK</text>
+
+  <text class="muted"
+        x="69" y="177"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="20"
+        font-weight="450"
+        letter-spacing="5">ENGINEERING · CARE · CURIOSITY</text>
+
+  <!-- sparse technical-drawing motif: a path that stays intentionally unfinished -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path class="line" d="M862 96 H930 L969 135 H1066" stroke-width="1.5"/>
+    <path class="line" d="M862 184 H916 L952 148" stroke-width="1.5"/>
+    <path class="line" d="M1066 135 H1117" stroke-width="1.5" stroke-dasharray="5 8"/>
+
+    <circle class="node" cx="862" cy="96" r="5" stroke-width="1.5"/>
+    <rect class="node" x="925" y="130" width="10" height="10" rx="1" stroke-width="1.5"/>
+    <circle class="node" cx="969" cy="135" r="5" stroke-width="1.5"/>
+    <circle class="node" cx="862" cy="184" r="5" stroke-width="1.5"/>
+    <circle class="node" cx="952" cy="148" r="5" stroke-width="1.5"/>
+    <circle class="node" cx="1066" cy="135" r="5" stroke-width="1.5"/>
+
+    <!-- tiny construction marks -->
+    <path class="accent" d="M846 96 H836 M862 80 V70 M846 184 H836 M862 200 V210" stroke-width="1"/>
+    <path class="accent" d="M1082 119 L1090 111 M1082 151 L1090 159" stroke-width="1"/>
+  </g>
+</svg>
