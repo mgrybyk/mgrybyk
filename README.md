@@ -6,7 +6,7 @@ I build software mostly with **TypeScript, React and Node.js** — with a testin
 
 Right now I'm working on [**LeapSpace at Elsevier**](https://www.sciencedirect.com/leapspace) — a research-grade AI workspace. Most of my work is frontend and Node.js middleware, but I also work across Java/Spring Boot services, CI/CD, architecture, our design system, and whatever else needs attention.
 
-[![WebdriverIO TSC member](https://img.shields.io/badge/WebdriverIO-TSC-EA5906?logo=webdriverio&logoColor=white)](https://webdriver.io/community/team/)
+[![WebdriverIO TSC member](https://img.shields.io/badge/WebdriverIO-TSC%20member-EA5906?logo=webdriverio&logoColor=white)](https://webdriver.io/community/team/)
 
 ### Beyond software
 
